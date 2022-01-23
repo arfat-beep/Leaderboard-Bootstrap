@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+span {
+  color: #a2a2a2;
+}
+.fas {
+  color: #ffc014;
+}
+.timer {
+  background-color: #fee5df;
+  border-radius: 10px;
+  color: #ed6b4f;
+}
